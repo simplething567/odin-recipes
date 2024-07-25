@@ -1,0 +1,19 @@
+
+.list,
+.divli,
+.header{
+    color: rgb(177, 132, 74);
+}
+    
+.list{
+    text-decoration: none;
+    font-size: 28px;
+}
+
+.imgs{
+    text-align: center;
+}
+
+.col{
+    color:rgb(177, 132, 74);
+}
