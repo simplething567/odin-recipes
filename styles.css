@@ -17,3 +17,8 @@
 .col{
     color:rgb(177, 132, 74);
 }
+
+a{
+    text-decoration: none;
+    color: rgb(177, 132, 74);
+}
